@@ -1,0 +1,14 @@
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.AssemblyInfo.cs
+C:\Users\Master\source\repos\APIwithDocker\bin\Debug\netcoreapp2.2\APIwithDocker.deps.json
+C:\Users\Master\source\repos\APIwithDocker\bin\Debug\netcoreapp2.2\APIwithDocker.runtimeconfig.json
+C:\Users\Master\source\repos\APIwithDocker\bin\Debug\netcoreapp2.2\APIwithDocker.runtimeconfig.dev.json
+C:\Users\Master\source\repos\APIwithDocker\bin\Debug\netcoreapp2.2\APIwithDocker.dll
+C:\Users\Master\source\repos\APIwithDocker\bin\Debug\netcoreapp2.2\APIwithDocker.pdb
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.RazorAssemblyInfo.cache
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.RazorAssemblyInfo.cs
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.RazorTargetAssemblyInfo.cache
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.dll
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.pdb
+C:\Users\Master\source\repos\APIwithDocker\obj\Debug\netcoreapp2.2\APIwithDocker.csprojAssemblyReference.cache
